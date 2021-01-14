@@ -16,7 +16,6 @@ class Catalog extends BaseController
 
     public function index()
     {
-        
     }
 
     public function categories()
